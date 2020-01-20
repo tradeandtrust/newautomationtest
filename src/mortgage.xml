@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<Suite name = "mortgage">
+<Test name= "findrate">
+
+<Classes>
+<Class name="com.piiit.session2020.Amazon1.NewTestMaven" ></Class>
+
+</Classes>
+</Test>
+
+</Suite>
