@@ -23,6 +23,7 @@ public class NewTestMaven {
 	  ui.interestrate();
 	  Thread.sleep(2000);
 	  ui.ratebutton();
+	  System.out.println("This is to change com");
   }
   
   
